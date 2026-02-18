@@ -1,9 +1,9 @@
 # Combined file
 ### Author: Igor Akhundov
 ### Enviroment: Google Colab
-Раздел курса: 1. Базовый Python
-Глава 10
-Кейс 1
+Раздел курса: 1. Базовый Python, 
+Глава 10, 
+Кейс 1, 
 18.02.2026
 
 ### Description
